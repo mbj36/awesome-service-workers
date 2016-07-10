@@ -1,2 +1,5 @@
-# awesome-service-workers
-A curated list
+# Awesome-service-workers
+
+> A Collection of some awesome Service-Workers resources
+
+
