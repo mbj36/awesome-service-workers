@@ -8,8 +8,8 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 ## Contents
 
-- [What's Offline and Service-workers](#offline)
-- [Learning Resources](#resources)
+- [What's Offline](#offline)
+- [Learning Resources](#learning-resources)
 - [Communities](#community)
 - [Libraries and Tools](#libraries)
 - [Videos](#videos)
@@ -22,3 +22,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## What's Offline and Service-workers
 
 - [Offline First](https://github.com/pazguille/offline-first) - Useful resources for creating Offline-First web apps
+
+## Learning Resources
+
+- []
