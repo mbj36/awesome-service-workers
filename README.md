@@ -9,6 +9,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Contents
 
 - [What's Offline](#what's-offline)
+- [Getting Started](#getting-started)
 - [Learning Resources](#learning-resources)
 - [Communities](#communities)
 - [Libraries and Tools](#libraries-and-tools)
@@ -16,20 +17,32 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Slides](#slides)
 - [Conferences](#conferences)
 - [Open-source Projects](#open-source-projects)
-- [Specific Technologies](#specific-technologies)
 - [Browser Support](#browser-support)
+- [Specific Technologies](#specific-technologies)
+- [Who to follow](#who-to-follow)
 
-## What's Offline and Service-workers
+## What's Offline 
 
 - [Offline First](https://github.com/pazguille/offline-first) - Useful resources for creating Offline-First web apps
+- [Offline](http://www.html5rocks.com/en/tutorials/offline/whats-offline/) - "Offline": What does it mean and why should I care?
+
 
 ## Learning Resources
 
 - []
+
 ## Communities
 
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/service-worker) - Service Worker
 
+## Libraries and Tools
+## Videos
 ## Slides
 
 - [Service-workers](http://delapuente.github.io/presentations/at-your-service/#/) - Slides by Delapuente
+
+## Conferences
+## Open-source Projects
+## Browser Support
+## Specific Technologies
+## Who to follow
