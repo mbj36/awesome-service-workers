@@ -34,7 +34,12 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 ## Learning Resources
 
-- []
+- [Service Worker Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service worker explained by Alexx.
+- [Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/) - Offline cookbook by Jake Archibald
+- [Service worker Cookbook](https://serviceworke.rs/) - A collection of working, practical examples of using service workers in modern web apps.
+- [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
+- [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) - Concepts and Usage
+
 
 ## Communities
 
@@ -52,6 +57,8 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [PWA-summit-2016](https://developers.google.com/web/shows/pwa-devsummit/?hl=en) - PWA summit 2016
 - [Google IO](https://developers.google.com/web/shows/google-io/?hl=en) - Google IO
+- [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://youtu.be/cmGr0RszHc8) - Common technologies and techniques for building progressive web apps.
+- [Service-worker libraries, Totally tooling tips](https://www.youtube.com/watch?v=IIRj8DftkqE) - Google Chrome Developer
 
 ## Slides
 
