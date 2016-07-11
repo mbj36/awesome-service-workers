@@ -26,6 +26,10 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Offline First](https://github.com/pazguille/offline-first) - Useful resources for creating Offline-First web apps
 - [Offline](http://www.html5rocks.com/en/tutorials/offline/whats-offline/) - "Offline": What does it mean and why should I care?
 
+## Getting Started
+
+- [Service-Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - Getting started with Service-workers
+- [Get started with Service workers](https://developers.google.com/web/fundamentals/getting-started/push-notifications/step-03?hl=en) - Google Developers
 
 ## Learning Resources
 
@@ -48,6 +52,8 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Who to follow
 
 - [Jake Archibald](https://github.com/jakearchibald) - Google Chrome Developer
+- [Alex Russell](https://github.com/slightlyoff) - Google 
+- [Dean Hume](https://github.com/deanhume) - Google Developer Expert
 - [Ben kelly](https://github.com/wanderview) - Mozilla
 - [Guille Paz](https://github.com/pazguille) - Developer
 - [Matt Andrews](https://github.com/matthew-andrews) - Software Engineer
