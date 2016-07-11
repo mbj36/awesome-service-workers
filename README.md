@@ -8,15 +8,15 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 ## Contents
 
-- [What's Offline](#offline)
+- [What's Offline](#what's-offline)
 - [Learning Resources](#learning-resources)
-- [Communities](#community)
-- [Libraries and Tools](#libraries)
+- [Communities](#communities)
+- [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 - [Slides](#slides)
 - [Conferences](#conferences)
-- [Open-source Projects](#opensource)
-- [Specific Technologies](#specifictech)
+- [Open-source Projects](#open-source-projects)
+- [Specific Technologies](#specific-technologies)
 - [Browser Support](#browser-support)
 
 ## What's Offline and Service-workers
@@ -26,3 +26,10 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Learning Resources
 
 - []
+## Communities
+
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/service-worker) - Service Worker
+
+## Slides
+
+- [Service-workers](http://delapuente.github.io/presentations/at-your-service/#/) - Slides by Delapuente
