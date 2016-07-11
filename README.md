@@ -8,10 +8,13 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 ## Contents
 
--[What's Offline](#offline)
--[Learning Resources](#resources)
--[Communities](#community)
--[Libraries and Tools](#libraries)
--[Videos](#videos)
--[Slides](#slides)
--[Conferences](#conferences)
+- [What's Offline](#offline)
+- [Learning Resources](#resources)
+- [Communities](#community)
+- [Libraries and Tools](#libraries)
+- [Videos](#videos)
+- [Slides](#slides)
+- [Conferences](#conferences)
+- [Open-source Projects](#opensource)
+- [Specific Technologies](#specifictech)
+- [Browser Support](#browser-support)
