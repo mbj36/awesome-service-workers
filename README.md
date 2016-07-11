@@ -20,7 +20,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Demos and Blog](#demos-and-blog)
 - [Open-source Projects](#open-source-projects)
 - [Browser Support](#browser-support)
-- [Specific Technologies](#specific-technologies)
+- [More Features](#more-features)
 - [Who to follow](#who-to-follow)
 
 ## What's Offline 
@@ -41,6 +41,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 - [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) - Concepts and Usage
 - [Google Chrome Service-worker](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) - Service worker Recipes.
+- [Service workers 101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API.
 
 ## Communities
 
@@ -92,7 +93,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Platform Status](https://platform-status.mozilla.org/#service-worker) - Mozilla Platform status
 - [Can i use service-workers ?](http://caniuse.com/#search=serviceworkers) - Browser support table of SW API
 
-## Specific Technologies
+## More Features
 
 
 ## Who to follow
