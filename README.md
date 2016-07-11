@@ -16,7 +16,8 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Videos](#videos)
 - [Slides](#slides)
 - [Events](#events)
-- [Demos](#demos)
+- [Case Studies](#case-studies)
+- [Demos and Blog](#demos-and-blog)
 - [Open-source Projects](#open-source-projects)
 - [Browser Support](#browser-support)
 - [Specific Technologies](#specific-technologies)
@@ -39,7 +40,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Service worker Cookbook](https://serviceworke.rs/) - A collection of working, practical examples of using service workers in modern web apps.
 - [Service Workers - W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 - [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) - Concepts and Usage
-
+- [Google Chrome Service-worker](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) - Service worker Recipes.
 
 ## Communities
 
@@ -59,6 +60,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Google IO](https://developers.google.com/web/shows/google-io/?hl=en) - Google IO
 - [Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016](https://youtu.be/cmGr0RszHc8) - Common technologies and techniques for building progressive web apps.
 - [Service-worker libraries, Totally tooling tips](https://www.youtube.com/watch?v=IIRj8DftkqE) - Google Chrome Developer
+- [Instant Loading with Service Workers](https://www.youtube.com/watch?v=jCKZDTtUA2A) - Chrome Dev summit 2015
 
 ## Slides
 
@@ -70,9 +72,14 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [Progressive Web App Dev Summit 2016](https://events.withgoogle.com/progressive-web-app-dev-summit/agenda/)
 
-## Demos
+## Case Studies
+
+- [Service Workers in Production](https://developers.google.com/web/showcase/case-study/service-workers-iowa) - A case-study about how Google I/O 2015 web app was built.
+
+## Demos and Blog
 
 - [Demo progressive web apps](https://pwa.rocks/) - Demo of some progressive web apps
+- [FLipkart Lite App](http://tech-blog.flipkart.net/) - Flipkart Lite - Progressive web app
 
 ## Open-source Projects
 
