@@ -46,3 +46,8 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Browser Support
 ## Specific Technologies
 ## Who to follow
+
+- [Jake Archibald](https://github.com/jakearchibald) - Google Chrome Developer
+- [Ben kelly](https://github.com/wanderview) - Mozilla
+- [Guille Paz](https://github.com/pazguille) - Developer
+- [Matt Andrews](https://github.com/matthew-andrews) - Software Engineer
