@@ -15,7 +15,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Libraries and Tools](#libraries-and-tools)
 - [Videos](#videos)
 - [Slides](#slides)
-- [Conferences](#conferences)
+- [Events](#events)
 - [Open-source Projects](#open-source-projects)
 - [Browser Support](#browser-support)
 - [Specific Technologies](#specific-technologies)
@@ -38,17 +38,36 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Communities
 
 - [Stackoverflow](http://stackoverflow.com/questions/tagged/service-worker) - Service Worker
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/sw-toolbox) - sw-toolbox
 
 ## Libraries and Tools
+
+- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common caching patterns.
+- [sw-precache](https://github.com/GoogleChrome/sw-precache) - Service Worker Precache is a module for generating a service worker that precaches resources.
+- [upup](https://www.talater.com/upup/) - A tool for offlining your app.
+
+
 ## Videos
 ## Slides
 
 - [Service-workers](http://delapuente.github.io/presentations/at-your-service/#/) - Slides by Delapuente
+- [Getting Offline](https://delapuente.github.io/presentations/from-web-app-to-pwa/index.html#/5) - Getting Offline - See the difference !
 
-## Conferences
+## Events
+
+
 ## Open-source Projects
+
+
 ## Browser Support
+
+- [Is service worker Ready](https://jakearchibald.github.io/isserviceworkerready/) - Service worker support in different browsers
+- [Platform Status](https://platform-status.mozilla.org/#service-worker) - Mozilla Platform status
+- [Can i use service-workers ?](http://caniuse.com/#search=serviceworkers) - Browser support table of SW API
+
 ## Specific Technologies
+
+
 ## Who to follow
 
 - [Jake Archibald](https://github.com/jakearchibald) - Google Chrome Developer
