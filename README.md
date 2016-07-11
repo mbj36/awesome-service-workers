@@ -16,6 +16,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Videos](#videos)
 - [Slides](#slides)
 - [Events](#events)
+- [Demos](#demos)
 - [Open-source Projects](#open-source-projects)
 - [Browser Support](#browser-support)
 - [Specific Technologies](#specific-technologies)
@@ -48,16 +49,28 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 
 ## Videos
+
+- [PWA-summit-2016](https://developers.google.com/web/shows/pwa-devsummit/?hl=en) - PWA summit 2016
+- [Google IO](https://developers.google.com/web/shows/google-io/?hl=en) - Google IO
+
 ## Slides
 
 - [Service-workers](http://delapuente.github.io/presentations/at-your-service/#/) - Slides by Delapuente
 - [Getting Offline](https://delapuente.github.io/presentations/from-web-app-to-pwa/index.html#/5) - Getting Offline - See the difference !
+- [PWA apps in firefox](http://slidedeck.io/wanderview/slides-pwa-summit-2016) - Slides pwa-summit-2016
 
 ## Events
 
+- [Progressive Web App Dev Summit 2016](https://events.withgoogle.com/progressive-web-app-dev-summit/agenda/)
+
+## Demos
+
+- [Demo progressive web apps](https://pwa.rocks/) - Demo of some progressive web apps
 
 ## Open-source Projects
 
+- [Airhorn](https://github.com/GoogleChrome/airhorn) - Airhorn
+- [Weather pwa-app](https://github.com/googlecodelabs/your-first-pwapp) - Weather-app
 
 ## Browser Support
 
