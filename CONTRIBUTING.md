@@ -12,4 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 
+- Add your name in contributors section with a link to Github profile
+
+
 Thank you for your suggestions!

@@ -22,6 +22,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Browser Support](#browser-support)
 - [More Features](#more-features)
 - [Who to follow](#who-to-follow)
+- [Contributors](#contributors)
 
 ## What's Offline 
 
@@ -105,3 +106,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Ben kelly](https://github.com/wanderview) - Mozilla
 - [Guille Paz](https://github.com/pazguille) - Developer
 - [Matt Andrews](https://github.com/matthew-andrews) - Software Engineer
+
+## Contributors
+
+- [Appnotion](https://github.com/helloguille)
