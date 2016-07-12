@@ -83,6 +83,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Demo progressive web apps](https://pwa.rocks/) - Demo of some progressive web apps
 - [FLipkart Lite App](http://tech-blog.flipkart.net/) - Flipkart Lite - Progressive web app
 - [Currency-x](http://www.currency-x.com) - Offline-enabled Currency Converter.
+- [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/) – Case Study by Lyza Danger Gardner
 
 ## Open-source Projects
 
