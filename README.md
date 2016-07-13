@@ -91,6 +91,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [Airhorn](https://github.com/GoogleChrome/airhorn) - Airhorn
 - [Weather pwa-app](https://github.com/googlecodelabs/your-first-pwapp) - Weather-app
+- [Service workers - The Chromium Projects](https://www.chromium.org/blink/serviceworker) - Chromium Project
 
 ## Browser Support
 
@@ -116,3 +117,5 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Contributors
 
 - [Appnotion](https://github.com/helloguille)
+- [MarcoHengstenberg (Marco Hengstenberg)](https://github.com/MarcoHengstenberg)
+
