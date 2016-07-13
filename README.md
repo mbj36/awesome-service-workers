@@ -21,6 +21,8 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Open-source Projects](#open-source-projects)
 - [Browser Support](#browser-support)
 - [More Features](#more-features)
+  - [Installable web apps](#installable-web-apps)
+  - [Push Notifications](#push-notifications)
 - [Who to follow](#who-to-follow)
 - [Contributors](#contributors)
 
@@ -98,6 +100,9 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 ## More Features
 
+### Installable web apps
+
+### Push Notifications
 
 ## Who to follow
 
