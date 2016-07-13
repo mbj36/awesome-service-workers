@@ -118,4 +118,5 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [Appnotion](https://github.com/helloguille)
 - [MarcoHengstenberg (Marco Hengstenberg)](https://github.com/MarcoHengstenberg)
+- [rusrushal13 (Rushal Verma)] (https://github.com/rusrushal13/)
 
