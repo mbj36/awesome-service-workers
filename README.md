@@ -45,6 +45,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) - Concepts and Usage
 - [Google Chrome Service-worker](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) - Service worker Recipes.
 - [Service workers 101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API.
+- [Service workers - The Chromium Projects](https://www.chromium.org/blink/serviceworker) - Chromium Project
 
 ## Communities
 
@@ -91,7 +92,6 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [Airhorn](https://github.com/GoogleChrome/airhorn) - Airhorn
 - [Weather pwa-app](https://github.com/googlecodelabs/your-first-pwapp) - Weather-app
-- [Service workers - The Chromium Projects](https://www.chromium.org/blink/serviceworker) - Chromium Project
 
 ## Browser Support
 
