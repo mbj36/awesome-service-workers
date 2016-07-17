@@ -57,7 +57,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common caching patterns.
 - [sw-precache](https://github.com/GoogleChrome/sw-precache) - Service Worker Precache is a module for generating a service worker that precaches resources.
 - [upup](https://www.talater.com/upup/) - A tool for offlining your app.
-
+- [serviceworker-webpack-plugin](https://github.com/oliviertassinari/serviceworker-webpack-plugin) - Simplifies creation of a service worker to serve your webpack bundles
 
 ## Videos
 
