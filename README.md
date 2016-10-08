@@ -35,6 +35,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [Service-Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - Getting started with Service-workers
 - [Get started with Service workers](https://developers.google.com/web/fundamentals/getting-started/push-notifications/step-03?hl=en) - Google Developers
+- [Everything you should know about progressive web apps](http://tutorialzine.com/2016/09/everything-you-should-know-about-progressive-web-apps/) - Everything you should know about progressive web apps(Basic of Service Workers)
 
 ## Learning Resources
 
