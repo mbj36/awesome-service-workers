@@ -4,7 +4,7 @@
 
 > Rich offline experiences, periodic background syncs, push notifications— functionality that would normally require a native application—are coming to the web. Service workers provide the technical foundation that all these features will rely on. -- [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
 
-Contributors are Welcome. Please read the [Contribution](https://github.com/mbj36/awesome-service-workers/blob/master/CONTRIBUTING.md) Guidelines. 
+Contributors are Welcome. Please read the [Contribution](https://github.com/mbj36/awesome-service-workers/blob/master/CONTRIBUTING.md) Guidelines.
 
 ## Contents
 
@@ -26,7 +26,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 - [Who to follow](#who-to-follow)
 - [Contributors](#contributors)
 
-## What's Offline 
+## What's Offline
 
 - [Offline First](https://github.com/pazguille/offline-first) - Useful resources for creating Offline-First web apps
 - [Offline](http://www.html5rocks.com/en/tutorials/offline/whats-offline/) - "Offline": What does it mean and why should I care?
@@ -109,7 +109,7 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 ## Who to follow
 
 - [Jake Archibald](https://github.com/jakearchibald) - Google Chrome Developer
-- [Alex Russell](https://github.com/slightlyoff) - Google 
+- [Alex Russell](https://github.com/slightlyoff) - Google
 - [Dean Hume](https://github.com/deanhume) - Google Developer Expert
 - [Ben kelly](https://github.com/wanderview) - Mozilla
 - [Guille Paz](https://github.com/pazguille) - Developer
@@ -119,5 +119,4 @@ Contributors are Welcome. Please read the [Contribution](https://github.com/mbj3
 
 - [Appnotion](https://github.com/helloguille)
 - [MarcoHengstenberg (Marco Hengstenberg)](https://github.com/MarcoHengstenberg)
-- [rusrushal13 (Rushal Verma)] (https://github.com/rusrushal13/)
-
+- [rusrushal13 (Rushal Verma)](https://github.com/rusrushal13/)
